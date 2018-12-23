@@ -1,0 +1,1 @@
+Zawartość katalogu 13.7: .DS_Store,index.js,node_modules,package-lock.json,package.json,text.txt
